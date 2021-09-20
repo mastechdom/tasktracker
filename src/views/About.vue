@@ -1,0 +1,21 @@
+<template>
+<div class="abt">
+    <h3>Version 1.0.0</h3>
+    <router-link to="/">Go Back</router-link>
+</div>
+</template>
+
+
+
+
+
+<style scoped>
+a {
+    color: #333;
+
+}
+.abt {
+    margin-top: 30px;
+    text-align: center;
+}
+</style>
